@@ -1,0 +1,65 @@
+{
+
+"images": [
+    "pengui1n.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 135, 128, 0, 0, 0],
+    [138, 1, 96, 133, 0, 0, 0],
+    [138, 1, 96, 133, 0, 0, 0],
+    [1, 131, 134, 120, 0, 0, 0],
+    [137, 136, 96, 133, 0, 0, 0],
+    [137, 136, 96, 133, 0, 0, 0],
+    [1, 253, 103, 136, 0, -9, -7],
+    [106, 271, 103, 136, 0, -8, -7],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [106, 253, 3, 3, 0, 0, 0],
+    [1, 391, 57, 19, 0, 0, 0]
+],
+
+"animations": {
+    "body4": { "frames": [0] },
+    "body2": { "frames": [1] },
+    "body3": { "frames": [2] },
+    "body0": { "frames": [3] },
+    "body5": { "frames": [4] },
+    "body6": { "frames": [5] },
+    "body1": { "frames": [6] },
+    "body7": { "frames": [7] },
+    "ears0": { "frames": [8] },
+    "ears1": { "frames": [9] },
+    "ears2": { "frames": [10] },
+    "ears3": { "frames": [11] },
+    "ears4": { "frames": [12] },
+    "ears5": { "frames": [13] },
+    "ears6": { "frames": [14] },
+    "ears7": { "frames": [15] },
+    "face2": { "frames": [16] },
+    "face3": { "frames": [17] },
+    "face4": { "frames": [18] },
+    "face5": { "frames": [19] },
+    "face6": { "frames": [20] },
+    "feet": { "frames": [21] },
+    "shadow": { "frames": [22] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:360b89c05fa15c22b767123a82e84480:fe31c9b7e7d2e24fcd38e28b74b6fab5:2bf6f921498a513f9ad4b27ba385459b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
