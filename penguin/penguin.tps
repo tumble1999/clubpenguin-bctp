@@ -34,7 +34,7 @@
         <key>dataFormat</key>
         <string>easeljs</string>
         <key>textureFileName</key>
-        <filename>penguin1.png</filename>
+        <filename>penguin2.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>pvrCompressionQuality</key>
@@ -159,7 +159,7 @@
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
-            <double>0.5</double>
+            <double>0.75</double>
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>extrude</key>
