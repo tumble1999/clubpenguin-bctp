@@ -12,7 +12,7 @@
 	"coins_background": "",
 	"bridge": "",
 	"ghost_ship": "",
-	"crittersManifest": "https://cdn.jsdelivr.net/gh/tumble1999/clubpenguin-bctp/critters/critters11.json",
+	"crittersManifest": "https://cdn.jsdelivr.net/gh/tumble1999/clubpenguin-bctp@master/critters/critters11.json",
 	"symbolsManifest": "",
 	"effectsManifest": "",
 	"itemsManifest": "",
